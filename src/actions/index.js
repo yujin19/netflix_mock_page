@@ -1,5 +1,3 @@
-import axios from "axios";
-
 export function getDataStart() {
   return {
     type: "FETCH_DATA_START"
